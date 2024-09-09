@@ -13,7 +13,6 @@
   
 #### In Progress
 - **[Upstage]** Machine Learning Regression Competition
-- 
 
 #### Upcoming
 - **[Upstage]** ML & MLOps
