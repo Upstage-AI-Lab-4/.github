@@ -14,6 +14,14 @@
 #### In Progress
 - **[Upstage]** Machine Learning Regression Competition
 
+#### Done
+- **[FastCampus]** Python
+- **[FastCampus]** Statistic
+- **[FastCampus]** Git
+- **[FastCampus]** LangChain Project
+- **[FastCampus]** Machine Learning
+- **[FastCampus]** Machine Learning Project
+  
 #### Upcoming
 - **[Upstage]** ML & MLOps
 - **[Upstage]** Machine Learning Project
@@ -35,14 +43,6 @@
 - **[Upstage]** Recommender System Competition
 - **[Upstage]** Anomaly Detection Competition
 - **[FastCampus]** 1 on 1 Career Service
-
-#### Done
-- **[FastCampus]** Python
-- **[FastCampus]** Statistic
-- **[FastCampus]** Git
-- **[FastCampus]** LangChain Project
-- **[FastCampus]** Machine Learning
-- **[FastCampus]** Machine Learning Project
   
 ### 🎇 Appendix
 - 🙌 [Upstage AI Lab Introduction Page](https://fastcampus.co.kr/b2g_kdigitaltraining_ai)
