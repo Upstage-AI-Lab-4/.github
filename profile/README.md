@@ -10,9 +10,6 @@
 ### 🖥️ Upstage AI Lab 4기
 #### Period
 - 2024.07.16 ~ 2025.02.14
-  
-#### In Progress
-- **[Upstage]** Machine Learning Regression Competition
 
 #### Done
 - **[FastCampus]** Python
@@ -21,6 +18,9 @@
 - **[FastCampus]** LangChain Project
 - **[FastCampus]** Machine Learning
 - **[FastCampus]** Machine Learning Project
+
+#### In Progress
+- **[Upstage]** Machine Learning Regression Competition
   
 #### Upcoming
 - **[Upstage]** ML & MLOps
